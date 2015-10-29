@@ -16,6 +16,8 @@ Reference "slides" from "The Two Pillars of JavaScript" talk.
 * [Introducing the Stamp Specification](https://medium.com/javascript-scene/introducing-the-stamp-specification-77f8911c2fee#.7f0bdpyk6)
 * [The Two Pillars of JavaScript: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.8d1nquob2)
 * [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.jzcl32q6a)
+* [Imperative vs Declarative 1/2](https://twitter.com/_ericelliott/status/659839147213893633)
+* [Imperative vs Declarative 2/2](https://twitter.com/_ericelliott/status/659839297047019520)
 * [Learn Rx](http://reactivex.io/learnrx/)
 * [The Future of Programming](http://www.sitepoint.com/future-programming-webassembly-life-after-javascript/)
 * [Fighting Poverty with Code](https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d#.n8qoqy36v)
