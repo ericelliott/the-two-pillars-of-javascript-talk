@@ -1,6 +1,6 @@
 # The Two Pillars of JavaScript
 
-Reference "slides" from "The Two Pillars of JavaScript" talk.
+References from "The Two Pillars of JavaScript" talk.
 
 * [JavaScript Scene](https://medium.com/javascript-scene) blog
 * [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017#.7sma5eo5o)
