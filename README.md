@@ -3,6 +3,7 @@
 References from "The Two Pillars of JavaScript" talk.
 
 * [JavaScript Scene](https://medium.com/javascript-scene) blog
+* [How to Build a High Velocity Development Team](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021#.xufcxva66)
 * [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017#.7sma5eo5o)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.am5pc4kwj)
 * [JavaScript Training Sucks](https://medium.com/javascript-scene/javascript-training-sucks-284b53666245#.dnk5befr6)
